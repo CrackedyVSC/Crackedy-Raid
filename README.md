@@ -43,6 +43,9 @@ pip install -r requirements.txt
 
 python3 Crackedy.py
 
+la contraseña para ejecutar el programa es: r8T#sP3d!lX2wZ9v
+
+
 
 
 
