@@ -18,7 +18,7 @@ os.system('cls' if os.name == 'nt' else 'clear')
 NNN = " "
 PSWW = "r8T#sP3d!lX2wZ9v"
 PSW = input("""Enter the password available in the github repository
-https://github.com/
+https://github.com/CrackedyVSC/Crackedy-Raid/
 .""")
 
 os.system('cls' if os.name == 'nt' else 'clear')
