@@ -32,7 +32,7 @@ pip --version
 ### Paso 4: Clona el repositorio y navega a la carpeta
 
 git clone https://github.com/CrackedyVSC/Crackedy-Raid/
-cd CrackedyVSC
+cd Crackedy-Raid
 
 Paso 5: Instala las dependencias
 Instala las dependencias necesarias con:
